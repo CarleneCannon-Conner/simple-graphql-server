@@ -6,6 +6,8 @@ Following FreeCodeCamp Tutorial: [A Beginner’s Guide to GraphQL](https://www.f
 
 Playground will be served at: [http://localhost:4000/](http://localhost:4000/)
 
+<img src="https://github.com/CarleneCannon-Conner/simple-graphql-server/blob/master/images/GraphQL%20Playground%20Screenshot.png" alt="drawing" width="320"/>
+
 ### Example Playground Queries
 #### List all Users
 ```
