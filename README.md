@@ -1,5 +1,5 @@
 # simple-graphql-server
-Following FreeCodeCamp Tutorial: A Beginner’s Guide to GraphQL using `graphpack`
+Following FreeCodeCamp Tutorial: [A Beginner’s Guide to GraphQL](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-86f849ce1bec/) using `graphpack`
 
 ## To run locally:
 `npm run dev`
